@@ -1,4 +1,4 @@
-# DS-PROGRAMM[8:24 PM, 1/11/2022] Dhakad...🐣🐥🐣:
+# DS-PROGRAMM:
 #include<stdio.h>  
 #include<stdlib.h>  
 void beginsert(int);  
